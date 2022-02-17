@@ -36,6 +36,7 @@ nav {
 nav a {
     display: inline-block;
     margin-left: 25px;
+    transition: all 250ms ease;
 }
 nav a:hover{
     color: #d9dcd6;
